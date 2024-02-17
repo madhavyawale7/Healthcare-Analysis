@@ -6,7 +6,7 @@ The project entails leveraging Power BI to conduct a comprehensive analysis of o
 
 DASHBOARDS 
 
-![image](https://github.com/madhavyawale7/Healthcare-Analysis/assets/159420665/2bbd5d23-ce35-481c-98de-fc8b82f0143a)
+![image](https://github.com/madhavyawale7/Healthcare-Analysis/assets/159420665/861ca4d2-a8ce-49d6-a709-165237cf870c)
 
 ![image](https://github.com/madhavyawale7/Healthcare-Analysis/assets/159420665/7e8d6c8f-d2db-45d2-8127-9a966273350b)
 

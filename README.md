@@ -9,7 +9,7 @@
 - [KEY FEATURE](#KEY-FEATURE)
 - [Insight](#Insight)
 - [Power BI File](https://github.com/madhavyawale7/Healthcare-Analysis/blob/main/Power%20BI%20File.pbix)
-- [Word Document](https://github.com/madhavyawale7/University-Analysis/blob/main/Word%20Document%20Of%20University%20Success%20Analysis.docx)
+- [Word Document](https://github.com/madhavyawale7/Healthcare-Analysis/blob/main/Summary%20Report.docx)
 
 # Introduction:
 

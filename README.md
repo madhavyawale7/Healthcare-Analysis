@@ -11,7 +11,7 @@
 - [Power BI File](https://github.com/madhavyawale7/University-Analysis/blob/main/Power%20BI%20Of%20University%20Success%20Analysis%20Project.pbix)
 - [Word Document](https://github.com/madhavyawale7/University-Analysis/blob/main/Word%20Document%20Of%20University%20Success%20Analysis.docx)
 
-# Introduction:-
+# Introduction:
 
 The project entails leveraging Power BI to conduct a comprehensive analysis of one year's worth of healthcare industry data, aimed at providing actionable insights to the US government. Key features include interactive visualizations, dynamic filters, and stakeholder-specific views. The analysis encompasses various aspects such as patient demographics, hospital performance, payer-provider dynamics, and regional impact. Insights derived from the data aid in understanding trends, evaluating financial performance, and optimizing resource allocation. Overall, the project facilitates informed decision-making and strategic planning in response to the challenges posed by the COVID-19 pandemic within the healthcare industry.
 
